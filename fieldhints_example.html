@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <script src="fieldhints.js" type="text/javascript"></script>
+    <script src="prototype.js" type="text/javascript"></script>
+    <link href="fieldhints.css" rel="Stylesheet" type="text/css"></link>
+</head>
+<body onload="FieldHints.initialize()">
+    
+    <form action="">
+        <p>
+            <label for="name">
+                Name:
+                <br/>
+            </label>
+            <input type="text" id="name" class="class1 class2"/>
+            <label for="name" class="hintText">Firstname Lastname</label>
+        </p>
+        <p>
+            <label>
+                Phone number:
+                <br/>
+                <input type="text" id="phone" />
+            </label>
+            <label for="phone" class="hintText">+1 (416) 555-1212</label>
+        </p>
+    </form>
+
+</body>
+</html>
