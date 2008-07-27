@@ -3,10 +3,11 @@ h2. FieldHints
 h3. A simple way to add grey "hint" text to HTML form fields
 
 "http://github.com/pauldowman/fieldhints":http://github.com/pauldowman/fieldhints
-Copyright 2007 Paul Dowman, http://pauldowman.com/
 
 For more info and usage instructions see:
 "http://pauldowman.com/projects/fieldhints/":http://pauldowman.com/projects/fieldhints/
+
+Copyright 2007 Paul Dowman, http://pauldowman.com/
 
 This is free software, and you are welcome to redistribute it under 
 certain conditions. This software comes with ABSOLUTELY NO WARRANTY.
